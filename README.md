@@ -1,49 +1,49 @@
 <h1 align="center">Hi 👋, I'm Br1jm0h4n</h1>
-<p align="center">I build lightweight Android apps, web tools, and backend experiments 🚀</p>
+<p align="center">🚀 I build Android apps, browser tools, and simple backend projects</p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔧 Hobby developer focused on Java, JavaScript, Python
-- 📱 Currently working on Android apps like `zip2share`
-- 🌐 Learning backend integration using Google Sheets
+
+- 📱 Passionate about Android app development (Java, Android Studio)
+- 🌐 I explore JavaScript and Python for web & backend tools
+- 🧪 Love creating lightweight tools that solve real-world problems
+- 🔍 Always learning and improving
+
+---
+
+### 🚀 Featured Projects
+
+- 📦 [zip2share](https://github.com/BR1JM0H4N/zip2share) – Zip & share files on Android
+- 🧪 [LocalServer](https://github.com/BR1JM0H4N/LocalServer) – Local Python-based HTTP server
+- 📄 [Google-Sheets-as-database](https://github.com/BR1JM0H4N/Google-Sheets-as-database) – Use Google Sheets as a backend
+- 🖍️ [pdf-marker-pro](https://github.com/BR1JM0H4N/pdf-marker-pro) – PDF annotation tool
+- 🧠 [CBT-App](https://github.com/BR1JM0H4N/CBT-App) – Subject-based online quiz app
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BR1JM0H4N/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/BR1JM0H4N/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BR1JM0H4N&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🧠 Languages I Use Most
+### 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BR1JM0H4N/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/BR1JM0H4N/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR1JM0H4N&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-- 📦 [zip2share](https://github.com/BR1JM0H4N/zip2share): Android app to zip & share files with ease
-- 🧪 [LocalServer](https://github.com/BR1JM0H4N/LocalServer): Simple Python HTTP server
-- 📄 [Google-Sheets-as-database](https://github.com/BR1JM0H4N/Google-Sheets-as-database): Use Sheets as a backend database
-- 📑 [pdf-marker-pro](https://github.com/BR1JM0H4N/pdf-marker-pro): Annotate PDFs in the browser
-- 📚 [CBT-App](https://github.com/BR1JM0H4N/CBT-App): Quiz app for subject-based testing
-
----
-
-### 👀 Visitor Count
+### 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BR1JM0H4N&style=flat-square&color=blue" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=BR1JM0H4N&style=flat-square&color=blue" alt="Visitor count" />
 </p>
 
 ---
 
-> ⚡️ I may be slow to respond, but I love building cool things. Let’s connect through code!
+> ⚡ *I may be slow to respond, but I enjoy building and sharing code. Thanks for visiting my profile!*
