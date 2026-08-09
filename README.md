@@ -94,9 +94,6 @@
 <!--END_SECTION:snake-->
 
 </div>
-
-> ℹ️ To activate the snake animation above, add [`Platane/snk`](https://github.com/Platane/snk) as a GitHub Action in this repo — it auto-generates and commits the SVG on a schedule. Setup steps are in the footer note below.
-
 ---
 
 <div align="center">
