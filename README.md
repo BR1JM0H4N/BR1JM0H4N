@@ -94,7 +94,6 @@
 <!--END_SECTION:snake-->
 
 </div>
----
 
 <div align="center">
 
