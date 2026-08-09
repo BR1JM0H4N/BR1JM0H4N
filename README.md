@@ -90,7 +90,7 @@
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/BR1JM0H4N/BR1JM0H4N/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/BR1JM0H4N/BR1JM0H4N/output/github-contribution-grid-snake-dark.svg?palette=github-dark" width="100%"/>
 <!--END_SECTION:snake-->
 
 </div>
