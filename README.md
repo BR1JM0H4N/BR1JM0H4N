@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Brijmohan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20•%20Builder%20of%20Lightweight%20Tools%20•%20Curious%20Coder&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/BR1JM0H4N">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+Android+apps+📱;I+tinker+with+Python+backends+🐍;I+ship+lightweight+browser+tools+🌐;I+may+be+slow+to+respond...+but+I+deliver+🚀&font=Fira+Code&center=true&width=600&height=50&color=00C6FF&vCenter=true&size=22&pause=1200"/>
-</a>
-
 <br/>
 
 [![Followers](https://img.shields.io/github/followers/BR1JM0H4N?label=Followers&style=for-the-badge&color=00c6ff&logo=github)](https://github.com/BR1JM0H4N?tab=followers)
@@ -77,11 +73,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BR1JM0H4N&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR1JM0H4N&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BR1JM0H4N&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -91,15 +82,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) &nbsp;
-![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png) &nbsp;
-![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-
-</div>
 
 ---
 
